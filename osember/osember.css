@@ -1,0 +1,16 @@
+body {
+    background-color: moccasin;
+    color: navy;
+}
+
+h1 {
+    text-align: center;
+}
+
+#kep1 {
+    text-align: center;
+}
+
+img {
+    border: solid 1px;
+}
