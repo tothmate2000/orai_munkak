@@ -1,0 +1,23 @@
+body {
+    background-color: darkslategray;
+}
+
+#cim1 {
+    text-align: center;
+    color: white;
+}
+
+table {
+    background-image: url("hatter.jpg");
+    border: none;
+    width: 640px;
+}
+
+a {
+    text-decoration-color: black;
+    color: black;
+}
+
+img {
+    border: 1px solid;
+}
